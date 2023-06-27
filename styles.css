@@ -8,3 +8,8 @@ body {
     background-color: #1F2937;
     padding: 12px 64px;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
