@@ -43,4 +43,5 @@ a, .subtext {
 
 .hero {
     margin-top: 64px;
+    display: flex;
 }
