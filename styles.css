@@ -24,6 +24,10 @@ body {
     color: #F9FAF8;
 }
 
+.right-links {
+    display: flex;
+    gap: 24px;
+}
 a {
     text-decoration: none;
 }
