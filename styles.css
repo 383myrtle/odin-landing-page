@@ -53,3 +53,11 @@ a, .subtext {
     font-weight: 1000;
     color: #F9FAF8;
 }
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 25px;
+}
