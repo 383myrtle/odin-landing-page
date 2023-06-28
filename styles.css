@@ -26,3 +26,7 @@ body {
 a {
     text-decoration: none;
 }
+
+a, .subtext {
+    color: #E5E7EB;
+}
