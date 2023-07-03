@@ -75,6 +75,7 @@ button {
 .subtitle {
     margin: 48px 128px;
     text-align: center;
+    font-weight: bolder;
 }
 
 .img-list {
