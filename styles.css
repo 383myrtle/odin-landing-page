@@ -72,3 +72,8 @@ button {
     font-size: 36px;
     color: #1F2937;
 }
+
+.img-list {
+    display: flex;
+    justify-content: space-between;
+}
