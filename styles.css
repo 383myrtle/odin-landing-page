@@ -92,3 +92,7 @@ img {
     flex-direction: column;
     align-items: center;
 }
+
+.item .subtext {
+    text-align: center;
+}
