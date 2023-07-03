@@ -85,6 +85,7 @@ img {
 .img-list {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 96px;
 }
 
 .item {
