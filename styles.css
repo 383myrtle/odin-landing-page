@@ -121,6 +121,8 @@ img {
     border-radius: 8px;
     padding: 36px 128px;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .call-to-action button {
