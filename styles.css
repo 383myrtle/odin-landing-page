@@ -48,6 +48,7 @@ a, .subtext {
     display: flex;
     align-items: center;
     gap: 64px;
+    justify-content: space-between;
 }
 
 .main-text {
