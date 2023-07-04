@@ -130,3 +130,9 @@ img {
     border-color: white;
     border-style: solid;
 }
+
+.cta-header {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
